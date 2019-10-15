@@ -1,1 +1,1 @@
-# basic_python_selenium_test
+Python test automation. First test.
