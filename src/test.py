@@ -11,5 +11,5 @@ search_button = driver.find_element_by_xpath("//*[@id='search-form']/fieldset/bu
 search_button.click()
 
 assert "Автоматизированное тестирование" in driver.title
-
+assert "Автоматизированн1ое тестирование" in driver.title
 driver.quit()
